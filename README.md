@@ -1,4 +1,4 @@
-# Scrappy-3D-Rendering
+# Basic-3D-Rendering
 
 A project that I threw together over fall break of 2023 to test my understanding of 3D graphics
 
